@@ -2,7 +2,7 @@
 - 👀 I’m interested in psychophysiology and music
 - 🌱 I’m currently learning Rmarkdown
 - 💞️ I’m looking to collaborate on anything to do with psychophysiology and music, specifically Cardiovascular measures of Cognition in response to Music.
-- 📫 How to reach me scott.leimroth@gmail.com
+- 📫 How to reach me srl285@uowmail.edu.au
 
 <!---
 scottl64/scottl64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
