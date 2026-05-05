@@ -1,0 +1,8 @@
+# Security baseline
+.env
+.env.*
+*.pem
+*.key
+*.db
+*.sqlite
+*.sqlite3
